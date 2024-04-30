@@ -20,5 +20,5 @@ endmodule
 
 OUTPUT
 
-![image](https://github.com/YEMANTHKUMAR/FULL_SUBTRACTOR/assets/160569469/109a1b0a-748d-4a04-aef9-fa14ba39fdb3)
 
+![image](https://github.com/YEMANTHKUMAR/FULL_SUBTRACTOR/assets/160569469/bc032057-545b-49eb-aab4-286d09273f71)
