@@ -5,7 +5,7 @@
 ![image](https://github.com/RESMIRNAIR/FULL_SUBTRACTOR/assets/154305926/7d480140-153a-4a7e-a6d2-5323c6bd4974)
 
 VERILOG CODE
-``````
+`````
 module fullsubractor(a,b,bin,d,bout);
 input a,b,bin;
 output d,bout;
@@ -20,5 +20,8 @@ endmodule
 
 OUTPUT
 
+![image](https://github.com/YEMANTHKUMAR/FULL_SUBTRACTOR/assets/160569469/9aea5431-d924-4222-b219-5d22975106f8)
 
-![image](https://github.com/YEMANTHKUMAR/FULL_SUBTRACTOR/assets/160569469/bc032057-545b-49eb-aab4-286d09273f71)
+
+
+
